@@ -1,0 +1,47 @@
+#bad{
+           text-align:center;
+         color:white;
+
+         }
+
+body{
+          background-color:black;
+         }
+
+.icon{
+            background-position:center;
+            padding-left:470px;
+            padding-top:20px;
+          }
+
+#descript{
+                   color:white;
+                     line-height:1.6cm;
+                }
+#descript p{
+                       text-align:justify;
+                       padding:20px;
+                 
+                   }
+#descript p1{
+                       color:green;
+                       padding-left:450px;
+                     }
+#descript p2{
+                      color:chocolate;
+                     }
+
+
+.download{
+                    padding-left:570px;
+                    cursor:pointer;
+
+                   }
+
+#ftr {
+            background-color: aqua;
+         }
+
+#ftr p{
+            text-align:center;
+          }

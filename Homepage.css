@@ -1,0 +1,155 @@
+body{
+            background-color:black;
+           color:black;
+           /*position:fixed;*/
+           font-family: 'lucida sans','lucida sans regular','lucida sans unicode','geneva','verdana','sans-serif';
+           margin:o;
+          }
+
+.logo{
+            float:left;
+           align: center:
+          color: white;
+            padding:6px 16px;
+         
+        }
+
+
+
+#main-header{
+                          background-color:aqua;
+                          width: 1280px;
+                         position:fixed;
+                          top:0;
+                          left:0;
+                       }
+#navbar{
+               margin-top:10px;
+               float:right;
+             margin-top:20px;
+
+                }
+#navbar li{
+                display:inline;
+                padding:20px 10px;
+             
+                
+              }
+
+#navbar a{
+
+                  text-decoration:none;
+                  color:black;
+                   padding:auto;
+              }
+
+#navbar li:first-child {
+                                      padding-right:15px;
+                                   }
+#navbar li:nth-child(2){
+                                           padding-left:15px;
+                                           padding-right:15px;
+                                      }
+#navbar li:nth-child(3){
+                                          padding-left:15px;
+                                          padding-right:15px;
+
+                                     }
+#navbar li:last-child{
+                                       padding-left:15px;
+                                       padding-right:25px;
+                                }
+#navbar a:hover{
+                            color:white;
+                           }
+#navbar a:active{
+                             color:blue;
+                          }
+
+#navbar a:visited{
+                                color:purple;
+                            }
+
+
+#heros{
+              background-image:url(./img/homepagetheme.jpg);
+              color:;
+              background-position:center;
+             text-align:center;
+             margin-top:86px;
+             left:0;
+            min-height:450px;
+            width:1285px;
+             padding-left:0;
+             padding-top:90px;
+            }
+
+#heros h1{
+                  text-align:center; 
+                   padding-top:100px; 
+                  color:yellow;
+                 
+                 }
+#main-section{
+                         float:left;
+                         padding:0 30px;
+                         width:100%;
+                         box-sizing:border-box;
+                        }
+
+#main-section h1{  
+                               color:white;
+                            }
+
+#main-section p{
+                              line-height:1.6cm;
+                              color:yellow;
+                           }
+
+.let h2 {
+          font-weight:bold;
+           padding-left:20px;
+          text-align:center;
+           color:red;
+         
+           }
+
+.row{
+             padding-left:20px;
+
+         }
+
+.row a:hover{
+                    background-color:blue;  
+                   }
+
+.row p:hover{
+                       color:blue;
+                     }
+
+.aqu a{
+              padding-left:20px;
+               padding-top:0;
+               
+            }
+.aqu h5{
+               padding-left:20px;;
+ 
+               }
+
+#ftr{
+          background-color:aqua;
+           bottom:0;
+          left:0;
+}
+ #ftr p  {       text-align:center;
+         padding-bottom:0;
+       }
+
+#ftr li{
+              float:right;
+           }
+
+
+
+

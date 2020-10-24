@@ -1,0 +1,58 @@
+body{
+           background-color:black;
+
+         }
+
+#aquam{
+                color:red;
+                text-align:center;
+                }
+
+#aquaman h1{
+                         font-size:20px;
+                       }
+
+.icon{
+           background-position:center;
+           padding-left:470px;
+           padding-top: 20px;
+
+          }
+ #aquadescript{
+                          color:white;
+                          line-height:1.6cm;
+                          
+
+                         }
+
+#aquadescript p1{ 
+                             color:green;
+                           padding-left:400px;
+                        }
+
+#aquadescript p2{
+                                color:chocolate;
+                             }
+
+#aquadescript p{ 
+                           padding:20px;
+                           text-align:justify;
+                        }
+
+#aquadescript p3{
+                              color:yellow;
+                            }
+
+.download {
+                      padding-left:570px;
+                       cursor: pointer;
+                   }
+
+#ftr {
+             background-color: aqua;
+        }
+
+#ftr p {
+             text-align:center;
+
+            }
